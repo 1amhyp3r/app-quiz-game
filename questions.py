@@ -1,22 +1,22 @@
 questions = [
     {
-        "prompt": "What is the capital of France?",
-        "options": ["A. Paris", "B. London", "C. Berlin", "D. Madrid"],
+        "prompt": "Which planet in the Milky Way is the hottest?",
+        "options": ["A. Venus", "B. Jupyter", "C. Mars", "D. Saturn"],
         "answer": "A"
     },
     {
-        "prompt": "Which language is primarily spoken in Brazil?",
-        "options": ["A. Spanish", "B. Portuguese", "C. English", "D. French"],
-        "answer": "B"
+        "prompt": "Where is the strongest human muscle located?",
+        "options": ["A. Arm", "B. Tongue", "C. Jaw", "D. Calf"],
+        "answer": "C"
     },
     {
-        "prompt": "What is the smallest prime number?",
-        "options": ["A. 1", "B. 2", "C. 3", "D. 5"],
-        "answer": "B"
+        "prompt": "What is the chemical element with the symbol 'Fe'?",
+        "options": ["A. Iron", "B. Copper", "C. Aluminum", "D. Gold"],
+        "answer": "A"
     },
     {
-        "prompt": "Who wrote 'To Kill a Mockingbird'?",
-        "options": ["A. Harper Lee", "B. Mark Twain", "C. J.K. Rowling", "D. Ernest Hemingway"],
+        "prompt": "In what year did World War II end?",
+        "options": ["A. 1945", "B. 1941", "C. 1940", "D. 1943"],
         "answer": "A"
     }
 ]
